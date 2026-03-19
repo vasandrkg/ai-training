@@ -111,3 +111,6 @@ func main() {
 	result := vector.CosineSimilarity(kingSubManPlusWoman, queen)
 	fmt.Printf("King - Man + Woman ~= Queen similarity: %.2f%%\n", result*100)
 }
+
+
+# just some random text to test the git commit
